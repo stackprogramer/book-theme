@@ -1,0 +1,391 @@
+# Translation of Themes - Stack Design in English (Australia)
+# This file is distributed under the same license as the Themes - Stack Design package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-17 12:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: en-AU\n"
+"Project-Id-Version: Themes - Stack Design\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-17 11:18+0000\n"
+"Last-Translator: stackprogramer <stackprogramer@gmail.com>\n"
+"Language-Team: English (Australia)"
+
+#. translators: %s: post title
+#: content.php:73
+msgid "% Comments"
+msgstr "% Comments"
+
+#. translators: %s: post title
+#: content.php:73
+msgid "1 comment"
+msgstr "1 comment"
+
+#. Description of the theme
+msgid ""
+"[En]The design of the Stack Design  template was designed to create a "
+"beautiful and responsive template for Persian and English-language blogs. "
+"The design of this template is based on the famous CSS framework, bootstrap. "
+"The first version of this template was released free charge in June 2018<a "
+"href=\"https://blog.stackprogramer.xyz/en\">English demo</a>. ,[Fa] قالب "
+"استک دیزاین با هدف ساخت قالبی زیبا و واکنش گرا برای وبلاگ های فارسی و "
+"انگلیسی زبان طراحی شده است. در طراحی این قالب از فریم ورک معروف سی اس اس "
+"یعنی بوت استرپ استفاده شده است. اولین نسخه این قالب در ژوئن سال ۲۰۱۸ به صورت "
+"رایگان منتشر شده است <a href=\"https://blog.stackprogramer.xyz/\">دمو "
+"فارسی</a>."
+msgstr ""
+"[En]The design of the Stack Design  template was designed to create a "
+"beautiful and responsive template for Persian and English-language blogs. "
+"The design of this template is based on the famous CSS framework, bootstrap. "
+"The first version of this template was released free charge in June 2018<a "
+"href=\"https://blog.stackprogramer.xyz/en\">English demo</a>. ,[Fa] قالب "
+"استک دیزاین با هدف ساخت قالبی زیبا و واکنش گرا برای وبلاگ های فارسی و "
+"انگلیسی زبان طراحی شده است. در طراحی این قالب از فریم ورک معروف سی اس اس "
+"یعنی بوت استرپ استفاده شده است. اولین نسخه این قالب در ژوئن سال ۲۰۱۸ به صورت "
+"رایگان منتشر شده است <a href=\"https://blog.stackprogramer.xyz/\">دمو "
+"فارسی</a>."
+
+#: inc/customizer.php:263
+msgid "Active Menu Background Color"
+msgstr "Active Menu Background Color"
+
+#: inc/customizer.php:540
+msgid ""
+"Allows you to customize some example settings for header and footer "
+"StackDesign theme."
+msgstr ""
+"Allows you to customize some example settings for header and footer "
+"StackDesign theme."
+
+#: inc/customizer.php:58
+msgid "Allows you to customize some example settings for StackDesign."
+msgstr "Allows you to customize some example settings for StackDesign."
+
+#: inc/customizer1.php:77
+msgid "Applied arbitrary color to background color."
+msgstr "Applied arbitrary color to background color."
+
+#: inc/customizer1.php:96 inc/customizer1.php:119 inc/customizer1.php:128
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+"Applied to the header on small screens and the sidebar on wide screens."
+
+#: content-search.php:50
+msgid "Author"
+msgstr "Author"
+
+#: inc/customizer1.php:76
+msgid "Background color"
+msgstr "Background color"
+
+#: inc/customizer.php:75 inc/customizer1.php:53
+msgid "Base Color Scheme"
+msgstr "Base Color Scheme"
+
+#: inc/customizer.php:852 inc/customizer1.php:338
+msgid "Black"
+msgstr "Black"
+
+#: inc/customizer.php:120
+msgid "Body Background Color"
+msgstr "Body Background Color"
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:24
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "One thought on &ldquo;%s&rdquo;"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:51
+#, php-format
+msgid "Continue reading %s"
+msgstr "Continue reading %s"
+
+#: inc/customizer.php:830 inc/customizer1.php:316
+msgid "Dark blue"
+msgstr "Dark blue"
+
+#: inc/customizer.php:742 inc/customizer1.php:228 inc/customizer1.php:475
+msgid "Default"
+msgstr "Default"
+
+#: content.php:71 content-search.php:71
+msgid "Edit"
+msgstr "Edit"
+
+#: functions.php:89
+msgid "English Menu"
+msgstr "English Menu"
+
+#: inc/customizer1.php:135
+msgid "Font setting"
+msgstr "Font setting"
+
+#: inc/customizer1.php:150
+msgid "Font size setting"
+msgstr "Font size setting"
+
+#: inc/customizer.php:313
+msgid "Footer Background Color"
+msgstr "Footer Background Color"
+
+#: inc/customizer.php:516
+msgid "Footer Text Color"
+msgstr "Footer Text Color"
+
+#: inc/customizer.php:288
+msgid "Form background Color"
+msgstr "Form background Color"
+
+#: inc/customizer.php:492
+msgid "Form Text Color"
+msgstr "Form Text Color"
+
+#: inc/customizer.php:786 inc/customizer1.php:272
+msgid "Green"
+msgstr "Green"
+
+#: inc/customizer.php:537
+msgid "Header and Footer"
+msgstr "Header and Footer"
+
+#: inc/customizer1.php:118
+msgid "Header and Sidebar Background Color"
+msgstr "Header and Sidebar Background Color"
+
+#: inc/customizer1.php:95
+msgid "Header and Sidebar Text Color"
+msgstr "Header and Sidebar Text Colour"
+
+#: inc/customizer.php:146
+msgid "Header Background Color"
+msgstr "Header Background Color"
+
+#: inc/customizer.php:415
+msgid "Header Text Color"
+msgstr "Header Text Color"
+
+#: inc/customizer.php:390
+msgid "Hover Link text Color"
+msgstr "Hover Link text Color"
+
+#. Author URI of the theme
+msgid "https://blog.stackprogramer.xyz/"
+msgstr "https://blog.stackprogramer.xyz/"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/stackdesign/"
+msgstr "https://wordpress.org/themes/stackdesign/"
+
+#: content.php:53
+msgid "is viewed"
+msgstr "is viewed"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "It looks like nothing was found at this location. Maybe try a search?"
+
+#: inc/customizer1.php:494
+msgid "Large"
+msgstr "Large"
+
+#: inc/customizer1.php:501
+msgid "larger"
+msgstr "larger"
+
+#. translators: %s: post title
+#: content.php:73
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: inc/customizer.php:764 inc/customizer1.php:250
+msgid "Light blue"
+msgstr "Light blue"
+
+#: inc/customizer.php:363
+msgid "Link Text Color"
+msgstr "Link Text Color"
+
+#: inc/customizer1.php:482
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/customizer.php:239
+msgid "Menu Background Color"
+msgstr "Menu Background Color"
+
+#: inc/customizer.php:467
+msgid "Menu Text Color"
+msgstr "Menu Text Color"
+
+#: inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: search.php:44 index.php:35
+msgid "Next page"
+msgstr "Next page"
+
+#: content.php:54
+msgid "Number of posts:"
+msgstr "Number of posts:"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#: inc/customizer.php:808 inc/customizer1.php:294
+msgid "Oranage"
+msgstr "Oranage"
+
+#: inc/customizer.php:338
+msgid "Ordinary Text Color"
+msgstr "Ordinary Text Color"
+
+#: search.php:45 index.php:36
+msgid "Page"
+msgstr "Page"
+
+#: functions.php:88
+msgid "Persian Menu"
+msgstr "Persian Menu"
+
+#: content-search.php:66
+msgid "Posted on"
+msgstr "Posted on"
+
+#: search.php:42 index.php:33
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: search.php:43 index.php:34
+msgid "Previous page"
+msgstr "Previous page"
+
+#: content.php:49
+msgid "Published by"
+msgstr "Published by"
+
+#: inc/customizer.php:875 inc/customizer1.php:361
+msgid "Red"
+msgstr "Red"
+
+#: inc/template-tags.php:111
+msgid "Reply"
+msgstr "Reply"
+
+#: inc/template-tags.php:67
+msgid "Search"
+msgstr "Search"
+
+#: inc/template-tags.php:65
+msgid "Search for:"
+msgstr "Search for:"
+
+#. Name of the template
+msgid "Search Page"
+msgstr "Search Page"
+
+#: search.php:29
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/customizer.php:216
+msgid "Sidebar Widget Inner Background Color"
+msgstr "Sidebar Widget Inner Background Color"
+
+#: inc/customizer.php:440
+msgid "Sidebar Widget Text Color"
+msgstr "Sidebar Widget Text Color"
+
+#: inc/customizer1.php:488
+msgid "Small"
+msgstr "Small"
+
+#: inc/customizer1.php:508
+msgid "Smaller"
+msgstr "Smaller"
+
+#: search.php:49
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+
+#: inc/back-compat.php:47 inc/back-compat.php:61
+#, php-format
+msgid ""
+"Stack Design requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+"Stack Design requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+
+#: inc/back-compat.php:36
+#, php-format
+msgid ""
+"Stack Designrequires at least WordPress version 4.1. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+"Stack Designrequires at least WordPress version 4.1. You are running version "
+"%s. Please upgrade and try again."
+
+#: inc/customizer.php:55
+msgid "Stackdesign Options"
+msgstr "Stackdesign Options"
+
+#. Name of the theme
+msgid "StackDesign wordpress template"
+msgstr "StackDesign wordpress template"
+
+#. Author of the theme
+msgid "the stackprogramer"
+msgstr "the stackprogramer"
+
+#: inc/customizer.php:170
+msgid "Theme Background Color"
+msgstr "Theme Background Color"
+
+#: inc/customizer.php:193
+msgid "Theme Text Color"
+msgstr "Theme Text Color"
+
+#: content.php:65
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Posted on"
+
+#: search.php:14 content.php:77
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Tags"

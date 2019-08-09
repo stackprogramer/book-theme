@@ -1,0 +1,380 @@
+# Translation of Themes - Stack Design in Persian
+# This file is distributed under the same license as the Themes - Stack Design package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-17 12:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: fa-IR\n"
+"Project-Id-Version: Themes - Stack Design\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-17 11:18+0000\n"
+"Last-Translator: stackprogramer <stackprogramer@gmail.com>\n"
+"Language-Team: فارسی"
+
+#. translators: %s: post title
+#: content.php:73
+msgid "% Comments"
+msgstr "% نظر"
+
+#. translators: %s: post title
+#: content.php:73
+msgid "1 comment"
+msgstr "یک نظر"
+
+#. Description of the theme
+msgid ""
+"[En]The design of the Stack Design  template was designed to create a "
+"beautiful and responsive template for Persian and English-language blogs. "
+"The design of this template is based on the famous CSS framework, bootstrap. "
+"The first version of this template was released free charge in June 2018<a "
+"href=\"https://blog.stackprogramer.xyz/en\">English demo</a>. ,[Fa] قالب "
+"استک دیزاین با هدف ساخت قالبی زیبا و واکنش گرا برای وبلاگ های فارسی و "
+"انگلیسی زبان طراحی شده است. در طراحی این قالب از فریم ورک معروف سی اس اس "
+"یعنی بوت استرپ استفاده شده است. اولین نسخه این قالب در ژوئن سال ۲۰۱۸ به صورت "
+"رایگان منتشر شده است <a href=\"https://blog.stackprogramer.xyz/\">دمو "
+"فارسی</a>."
+msgstr "استک پروگرمر"
+
+#: inc/customizer.php:263
+msgid "Active Menu Background Color"
+msgstr "رنگ پس زمینه منو فعال..."
+
+#: inc/customizer.php:540
+msgid ""
+"Allows you to customize some example settings for header and footer "
+"StackDesign theme."
+msgstr ""
+"به شما اجازه می دهد برخی تنظیمات مثال را برای تم های StackDesign سربرگ و "
+"پاورقی سفارشی کنید."
+
+#: inc/customizer.php:58
+msgid "Allows you to customize some example settings for StackDesign."
+msgstr "به شما امکان می دهد برخی تنظیمات مثال را برای StackDesign سفارشی کنید."
+
+#: inc/customizer1.php:77
+msgid "Applied arbitrary color to background color."
+msgstr " رنگ دلخواه به رنگ پس زمینه اضافه کنید."
+
+#: inc/customizer1.php:96 inc/customizer1.php:119 inc/customizer1.php:128
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+"در نمایشگرهای کوچک روی سربرگ اعمال می‌شود و در نمایشگرهای بزرگ روی "
+"ستون‌کناری."
+
+#: content-search.php:50
+msgid "Author"
+msgstr "نویسنده"
+
+#: inc/customizer1.php:76
+msgid "Background color"
+msgstr "رنگ پس زمینه"
+
+#: inc/customizer.php:75 inc/customizer1.php:53
+msgid "Base Color Scheme"
+msgstr "شمای رنگ پایه"
+
+#: inc/customizer.php:852 inc/customizer1.php:338
+msgid "Black"
+msgstr "سیاه"
+
+#: inc/customizer.php:120
+msgid "Body Background Color"
+msgstr "رنگ پس زمینه بدنه "
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "ناوبری دیدگاه"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "دیدگاه‌ها غیرفعال هستند."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s دیدگاه در &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:24
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "یک دیدگاه در &ldquo;%s&rdquo;"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:51
+#, php-format
+msgid "Continue reading %s"
+msgstr "ادامه خواندن %s"
+
+#: inc/customizer.php:830 inc/customizer1.php:316
+msgid "Dark blue"
+msgstr "آبی تیره"
+
+#: inc/customizer.php:742 inc/customizer1.php:228 inc/customizer1.php:475
+msgid "Default"
+msgstr " پیش‌فرض"
+
+#: content.php:71 content-search.php:71
+msgid "Edit"
+msgstr "ویرایش"
+
+#: functions.php:89
+msgid "English Menu"
+msgstr "منو انگلیسی"
+
+#: inc/customizer1.php:135
+msgid "Font setting"
+msgstr "تنظیم فونت"
+
+#: inc/customizer1.php:150
+msgid "Font size setting"
+msgstr "تنظیم اندازه فونت"
+
+#: inc/customizer.php:313
+msgid "Footer Background Color"
+msgstr "رنگ پس زمینه پاورقی"
+
+#: inc/customizer.php:516
+msgid "Footer Text Color"
+msgstr "رنگ متن پاورقی"
+
+#: inc/customizer.php:288
+msgid "Form background Color"
+msgstr "رنگ پس زمینه فرم"
+
+#: inc/customizer.php:492
+msgid "Form Text Color"
+msgstr "رنگ متن فرم"
+
+#: inc/customizer.php:786 inc/customizer1.php:272
+msgid "Green"
+msgstr "سبز"
+
+#: inc/customizer.php:537
+msgid "Header and Footer"
+msgstr "سربرگ و پاورقی"
+
+#: inc/customizer1.php:118
+msgid "Header and Sidebar Background Color"
+msgstr "رنگ پس‌زمینه‌ی سربرگ و ستون‌کناری"
+
+#: inc/customizer1.php:95
+msgid "Header and Sidebar Text Color"
+msgstr "رنگ متن سربرگ و ستون‌کناری"
+
+#: inc/customizer.php:146
+msgid "Header Background Color"
+msgstr "رنگ پس زمینه سربرگ"
+
+#: inc/customizer.php:415
+msgid "Header Text Color"
+msgstr "رنگ متن سربرگ"
+
+#: inc/customizer.php:390
+msgid "Hover Link text Color"
+msgstr "رنگ متن لینک گردان"
+
+#. Author URI of the theme
+msgid "https://blog.stackprogramer.xyz/"
+msgstr "https://blog.stackprogramer.xyz/"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/stackdesign/"
+msgstr "https://wordpress.org/themes/stackdesign/"
+
+#: content.php:53
+msgid "is viewed"
+msgstr "مشاهده شده"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"به نظر می‌رسد که چیزی که میخواهید در اینجا پیدا نشد. می‌خواهید جستجو کنید؟"
+
+#: inc/customizer1.php:494
+msgid "Large"
+msgstr "بزرگ"
+
+#: inc/customizer1.php:501
+msgid "larger"
+msgstr "بزرگتر"
+
+#. translators: %s: post title
+#: content.php:73
+msgid "Leave a comment"
+msgstr "نظر بدهید"
+
+#: inc/customizer.php:764 inc/customizer1.php:250
+msgid "Light blue"
+msgstr "آبی کمرنگ"
+
+#: inc/customizer.php:363
+msgid "Link Text Color"
+msgstr "رنگ متن پیوند"
+
+#: inc/customizer1.php:482
+msgid "Medium"
+msgstr "متوسط"
+
+#: inc/customizer.php:239
+msgid "Menu Background Color"
+msgstr "رنگ پس زمینه منو"
+
+#: inc/customizer.php:467
+msgid "Menu Text Color"
+msgstr "رنگ متن منو"
+
+#: inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr "دیدگاه‌های تازه‌تر"
+
+#: search.php:44 index.php:35
+msgid "Next page"
+msgstr "برگه بعد"
+
+#: content.php:54
+msgid "Number of posts:"
+msgstr "تعداد پست ها:"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "دیدگاه‌های کهنه‌تر"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! این برگه پیدا نمی‌شه."
+
+#: inc/customizer.php:808 inc/customizer1.php:294
+msgid "Oranage"
+msgstr "نارنجی"
+
+#: inc/customizer.php:338
+msgid "Ordinary Text Color"
+msgstr "رنگ متن معمولی"
+
+#: search.php:45 index.php:36
+msgid "Page"
+msgstr "برگه"
+
+#: functions.php:88
+msgid "Persian Menu"
+msgstr "منو فارسی"
+
+#: content-search.php:66
+msgid "Posted on"
+msgstr "پست شده در"
+
+#: search.php:42 index.php:33
+msgid "Posts navigation"
+msgstr "ناوبری پست ها"
+
+#: search.php:43 index.php:34
+msgid "Previous page"
+msgstr "برگه قبل"
+
+#: content.php:49
+msgid "Published by"
+msgstr "منتشرشده توسط"
+
+#: inc/customizer.php:875 inc/customizer1.php:361
+msgid "Red"
+msgstr "قرمز"
+
+#: inc/template-tags.php:111
+msgid "Reply"
+msgstr "پاسخ"
+
+#: inc/template-tags.php:67
+msgid "Search"
+msgstr "جستجو"
+
+#: inc/template-tags.php:65
+msgid "Search for:"
+msgstr "جستجو برای:"
+
+#. Name of the template
+msgid "Search Page"
+msgstr "صفحه ی جستجو"
+
+#: search.php:29
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتایج جستجوی: %s"
+
+#: inc/customizer.php:216
+msgid "Sidebar Widget Inner Background Color"
+msgstr "رنگ پس زمینه درونی ویجت کناری"
+
+#: inc/customizer.php:440
+msgid "Sidebar Widget Text Color"
+msgstr "رنگ متن ویجت کناری"
+
+#: inc/customizer1.php:488
+msgid "Small"
+msgstr "کوچک"
+
+#: inc/customizer1.php:508
+msgid "Smaller"
+msgstr "کوچک تر"
+
+#: search.php:49
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "بدبختانه جستجوی شما نتیجه‌ای در بر نداشت. با واژگانی دیگر جستجو کنید."
+
+#: inc/back-compat.php:47 inc/back-compat.php:61
+#, php-format
+msgid ""
+"Stack Design requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+"پوسته‌ی طراحی استک حداقل به وردپرس ۴,۱ احتیاج دارد. شما از نگارش %s استفاده "
+"می‌کنید. لطفاً پس از به‌روزرسانی دوباره تلاش کنید."
+
+#: inc/back-compat.php:36
+#, php-format
+msgid ""
+"Stack Designrequires at least WordPress version 4.1. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+"Stack Design حداقل حداقل نسخه وردپرس 4.1 را درخواست می کند. شما در حال اجرا٪ "
+"s هستید لطفا ارتقا دهید و دوباره امتحان کنید"
+
+#: inc/customizer.php:55
+msgid "Stackdesign Options"
+msgstr "انتخاب های استک دیزاین"
+
+#. Name of the theme
+msgid "StackDesign wordpress template"
+msgstr "قالب وردپرس استک دیزاین"
+
+#. Author of the theme
+msgid "the stackprogramer"
+msgstr "استک پروگرمر"
+
+#: inc/customizer.php:170
+msgid "Theme Background Color"
+msgstr "رنگ پس زمینه قالب"
+
+#: inc/customizer.php:193
+msgid "Theme Text Color"
+msgstr "رنگ متن قالب"
+
+#: content.php:65
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "ارسال شده در"
+
+#: search.php:14 content.php:77
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "برچسب‌ها"
