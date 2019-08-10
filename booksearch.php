@@ -17,6 +17,8 @@ get_header(); ?>
 						$args = array(
 						  'post_type' => 'books'
 						);
+						$total_number_query = new WP_Query( $args );
+						$count_books_number=$total_number_query->found_posts;
 						$the_query = new WP_Query( $args );
 						$count_books_number=$the_query->found_posts;
 						$id_current=get_the_ID();
@@ -26,7 +28,7 @@ get_header(); ?>
 						$id_book=1;
 						while ( $loop->have_posts() ) : $loop->the_post(); 
 							if($flag_increment && $id_current!=get_the_ID()){
-							if($id_book_req==$id_book){
+							if(($count_books_number-$id_book_req+1)==$id_book){
 							 the_title( '<h2 class="entry-title"><a href="' . get_permalink() . '" title="' . the_title_attribute( 'echo=0' ) . '" rel="bookmark">', '</a></h2>' );
 							$flag_increment=false;	
 							}	
@@ -38,7 +40,6 @@ get_header(); ?>
 							$id_wp_book=$id_current;
 								}
 						endwhile; 
-						return $id_wp_book;
 						}
 
 ?>
