@@ -21,10 +21,7 @@ get_header(); ?>
 		the_title( '<h2 class="entry-title"><a href="' . get_permalink() . '" title="' . the_title_attribute( 'echo=0' ) . '" rel="bookmark">', '</a></h2>' );
 		?>
 		</h2>
-		<?php 
-		   
-
-		?>
+		
 		</div>
 		<?php endwhile; wp_reset_postdata(); ?>
 		<!-- show pagination here -->
